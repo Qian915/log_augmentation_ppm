@@ -1,7 +1,7 @@
-# Log Augmentation with Order and Temporal Constraints for Predicting Unseen Process Behavior with Multiple Event Occurrences
+# Predicting Unseen Process Behavior Based on Log Injection
 
 ## Description
-This repository contains data and code for the article ''Log Augmentation with Order and Temporal Constraints for Predicting Unseen Process Behavior with Multiple Event Occurrences''
+This repository contains data and code for the article ''Predicting Unseen Process Behavior Based on Log Injection''
 
 ## Getting started
 
